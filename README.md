@@ -1,4 +1,4 @@
-I'm Marius (also sometimes going by Layla)
+My name is Marius (also sometimes going by Layla)
 
 I'm currently studying CS at the Technical University of Munich (TUM) in Germany
 
