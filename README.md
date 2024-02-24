@@ -1,5 +1,5 @@
-HI, my name's Marius
+Hi, I'm Marius
 
 3rd Semester CS (minor: EE) at TUM with an particular interest in Secruity, low-level Software and Hardware.
 
-Also interested in custom, ergonomic, mechanical keybaords
+Also interested in custom, ergonomic, mechanical keybaords.
